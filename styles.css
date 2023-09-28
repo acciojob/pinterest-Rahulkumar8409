@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+*{
+	padding:0px;
+	margin:0px;
+}
+.card{
+	display:flex;
+}
+.card-1{
+	
+}
+.img-src{
+	height="600px";
+	width="900";
+	object-fit:cover;
+}
