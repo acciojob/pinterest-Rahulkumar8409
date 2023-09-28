@@ -5,13 +5,15 @@
 }
 .card{
 	display:flex;
+	justify-content: center;
+	align-items:center;
 }
 .card-1{
 	text-align:center;
 }
 .img-src{
-	height="600px";
-	width="800";
+	height="300px";
+	width="900";
 	object-fit:cover;
 }
 #button{
